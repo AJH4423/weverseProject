@@ -6,6 +6,7 @@
 ### data
 1. API 주요로직 순서도 
 ### sourceCode
-1. weverse(SpringBoot) 프로젝트 소스코드
+1. weverse(SpringBoot) 프로젝트 BackEnd 소스코드
+2. weverse(SpringBoot) 프로젝트 FrontEnd 소스코드
 ## 프로젝트설명
 ###  weverseProject
