@@ -21,7 +21,7 @@
 - JavaScript(React, Next.js, Node.js)
 - DataBase(MySQL)
 - Server(Tomcat v9)  
-#### 맡은기능 참조코드
+#### 맡은기능 참조코드(data/api목록.pdf에서 2번, 5번, 10번참조)
 공통[sourceCode/back/weverse/src/main/java/com/weverse/sb]
 - 사용자관련 API
   - user/controller/UserController
