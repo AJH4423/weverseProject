@@ -5,7 +5,8 @@
 1. 전체 테이블 erd파일
 2. 테이블 관련 쿼리문
 ### data
-1. API 주요로직 순서도 
+1. API 주요로직 순서도
+2. 프로젝트 구현 API목록 파일 
 ### sourceCode
 1. weverse(SpringBoot) 프로젝트 BackEnd 소스코드
 2. weverse(SpringBoot) 프로젝트 FrontEnd 소스코드
